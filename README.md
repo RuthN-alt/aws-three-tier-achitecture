@@ -133,7 +133,7 @@ Backend API design (Node.js)
 Frontend deployment (React + NGINX)
 Database integration (Aurora MySQL)
 
-#📷 Screenshots
+#📷 Images
 ---
 ![alt text](imgs/architecture.png)
 ![alt text](imgs/site1.png)
