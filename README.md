@@ -136,12 +136,6 @@ Database integration (Aurora MySQL)
 #📷 Screenshots
 ---
 
-Architecture diagram    
-AWS VPC layout
-EC2 instances running
-Load balancer DNS output
-Working web application
-Note on Deployment
 
 
 #📌 Summary
