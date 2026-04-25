@@ -1,0 +1,35 @@
+#transactions {
+  width: 100%;
+  border-collapse: collapse;
+  background: #052d24;
+  color: #d1fae5;
+  border-radius: 10px;
+}
+
+#transactions td, #transactions th {
+  border: 1px solid #00ff9f;
+  padding: 10px;
+}
+
+#transactions tr:hover {
+  background-color: #064e3b;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+  background: #02140f;
+  color: #d1fae5;
+}
+
+input[type="button"] {
+  background: #00ff9f;
+  color: black;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background: #00cc7a;
+}
