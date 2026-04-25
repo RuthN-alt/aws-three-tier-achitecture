@@ -1,4 +1,5 @@
 #AWS 3-Tier Scalable Web Application Architecture
+---
 📌 Overview
 ---
 This project implements a production-style 3-tier distributed web architecture on AWS, designed for scalability, high availability, and fault tolerance.
