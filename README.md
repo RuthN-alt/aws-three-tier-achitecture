@@ -135,7 +135,9 @@ Database integration (Aurora MySQL)
 
 #📷 Screenshots
 ---
-
+![alt text](imgs/architecture.png)
+![alt text](imgs/site1.png)
+![alt text](imgs/site2.png)
 
 
 #📌 Summary
