@@ -11,7 +11,7 @@ Database Tier (Data Layer)
 
 It uses core AWS services including EC2, VPC, Application Load Balancers, Auto Scaling Groups, Amazon Aurora (MySQL), NAT Gateway, and S3.
 
-##🏗️ Architecture
+#🏗️ Architecture
 ---
 Flow of the system:
 
